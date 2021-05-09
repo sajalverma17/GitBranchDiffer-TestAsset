@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectUnderTest.NamespaceWithinProject
 {
-    class Class1
+    class FileRenamedInWorkingBranch
     {
     }
 }
