@@ -2,9 +2,9 @@
 
 namespace ProjectUnderTest
 {
-    internal static class Program
+    static class Program
     {
-        private static void Main2(string[] args)
+        static void Main2(string[] args)
         {
             // HMMMMM
             Console.WriteLine("Hello World! from feature branch");
