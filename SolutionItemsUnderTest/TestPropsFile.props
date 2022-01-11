@@ -3,5 +3,6 @@
 	<PropertyGroup>		
 		<TestProp1>Whatever</TestProp1>
 		<TestProp2>IDontCare</TestProp2>
+		<TestProp3>Property required for feature/test-feature branch</TestProp3>
 	</PropertyGroup>
 </Project>
