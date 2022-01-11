@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+	<PropertyGroup>		
+		<TestProp1>Whatever</TestProp1>
+		<TestProp2>IDontCare</TestProp2>
+	</PropertyGroup>
+</Project>

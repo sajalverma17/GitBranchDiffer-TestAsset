@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+	<!--Some test target-->
+	<Target Name="CopyReleaseToDeploy" AfterTargets="AfterBuild" Condition="'$(Configuration)' == 'Release'">
+	</Target>
+</Project>
