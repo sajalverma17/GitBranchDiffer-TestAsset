@@ -3,4 +3,6 @@
 	<!--Some test target-->
 	<Target Name="CopyReleaseToDeploy" AfterTargets="AfterBuild" Condition="'$(Configuration)' == 'Release'">
 	</Target>
+	<!--New target for test feature-->
+	<Target></Target>
 </Project>
