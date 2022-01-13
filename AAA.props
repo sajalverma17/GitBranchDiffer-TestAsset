@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+	<PropertyGroup>
+		<TestProp1>This is a SolutionItem present in master that is unchanged in feature branch.</TestProp1>
+		<TestProp2>This file must not show up when diffing master branch and feature branch</TestProp2>
+	</PropertyGroup>
+</Project>
